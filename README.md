@@ -158,4 +158,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - **Searching for a node in a binary heap of size n**
 
 # Authors:
-1-Erick Barasa
+1. George Wambani
+2. Aisha Khalifan
